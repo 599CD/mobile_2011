@@ -1,0 +1,8 @@
+﻿.nav-glyphish-example .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+.nav-glyphish-example .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: none !important; border-radius: none !important; }
+#tuts .ui-icon { background:  url("../icons/45-movie-1.png") 50% 50% no-repeat;  background-size: 19px 25px; }
+#tips .ui-icon { background:  url("../icons/84-lightbulb.png") 50% 50% no-repeat;  background-size: 14px 21px; }
+#blog .ui-icon { background:  url("../icons/179-notepad.png") 50% 50% no-repeat;  background-size: 22px 28px; }
+#acc .ui-icon { background:  url("../icons/123-id-card.png") 50% 50% no-repeat;  background-size: 24px 17px; }
+#more .ui-icon { background:  url("../icons/201-more.png") 50% 50% no-repeat;  background-size: 26px 10px; }
+/* Icons sourced from http://glyphish.com/ */
